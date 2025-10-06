@@ -41,28 +41,25 @@ The screenshots below showcase the sleek dark UI with golden highlights for key 
 |:---------------:|:------------------------------------------------------------------------:|:----------------------------------------------------------------:|
 | ![Home](./screenshots/Screenshot_20251006-214754_DayTask.png) | ![Project Details](./screenshots/Screenshot_20251006-214829_DayTask.png) | ![Profile](./screenshots/Screenshot_20251006-214803_DayTask.png) |
 
-> **Note:** Update the image paths according to your repository structure (e.g., `./screenshots/` folder).
-
 ---
 
 ## 🛠️ Tech Stack
 
 - **Language:** Kotlin
 - **UI Toolkit:** Jetpack Compose
-- **Architecture:** MVVM (Model–View–ViewModel)
+- **Architecture:** MVI (Model–View–Intent)
 - **Navigation:** Jetpack Navigation Component
-- **State Management:** ViewModel + LiveData / StateFlow
-- **Dependency Injection:** Hilt (if used)
-- **Database:** Room / Firebase (depending on your setup)
-- **Networking:** Retrofit / Ktor Client
+- **State Management:** ViewModel + StateFlow
+- **Database:** Room / Firebase
 - **Async Handling:** Kotlin Coroutines
+- **Predictive Back** Predictive back gestures
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Android Studio (Ladybug or newer)
+- Android Studio (latest version preferred)
 - Kotlin 1.9+
 - Gradle 8+
 
