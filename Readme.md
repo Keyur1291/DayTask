@@ -33,13 +33,13 @@
 
 The screenshots below showcase the sleek dark UI with golden highlights for key actions and metrics.
 
-| Splash Screen | Onboarding | Login / Sign Up |
-|:--------------:|:------------:|:----------------:|
-| ![Splash](./screenshots/Screenshot_20251006-214729_DayTask.png) | ![Onboarding](./screenshots/Screenshot_20251006-214731_DayTask.png) | ![Login](./screenshots/Screenshot_20251006-214745_DayTask.png) |
+| Splash Screen | Onboarding |                        Login / Sign Up                         |
+|:--------------:|:------------:|:--------------------------------------------------------------:|
+| ![Splash](./screenshots/Screenshot_20251006-214729_DayTask.png) | ![Onboarding](./screenshots/Screenshot_20251006-214731_DayTask.png) | ![Login](./screenshots/Screenshot_20251006-214735_DayTask.png) |
 
-| Home Dashboard | Project Details | Profile Management |
-|:---------------:|:----------------:|:-------------------:|
-| ![Home](./screenshots/Screenshot_20251006-214754_DayTask.png) | ![Project Details](./screenshots/Screenshot_20251006-214805_DayTask.png) | ![Profile](./screenshots/Screenshot_20251006-214812_DayTask.png) |
+| Home Dashboard | Project Details |                        Profile Management                        |
+|:---------------:|:----------------:|:----------------------------------------------------------------:|
+| ![Home](./screenshots/Screenshot_20251006-214754_DayTask.png) | ![Project Details](./screenshots/Screenshot_20251006-214805_DayTask.png) | ![Profile](./screenshots/Screenshot_20251006-214803_DayTask.png) |
 
 > **Note:** Update the image paths according to your repository structure (e.g., `./screenshots/` folder).
 
